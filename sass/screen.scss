@@ -1,0 +1,24 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/css3";
+
+
+#container {
+  position:absolute;
+  left: 50%;
+	  .class {
+		text-align:center;
+		width: 420px;
+		margin-left: -210px;
+		margin-bottom: 150px;	  
+	  	img {
+		  width: 100%;
+		}
+	}
+}
+
+
+
