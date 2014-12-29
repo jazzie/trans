@@ -5,6 +5,9 @@
 
 @import "compass/css3";
 
+html {
+	backround-color:rgb(238, 223, 204);
+}
 
 #container {
   position:absolute;
@@ -20,5 +23,8 @@
 	}
 }
 
+#learnMore {
+	/**  style it rather than delete it  **/
+}
 
 

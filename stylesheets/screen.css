@@ -2,19 +2,29 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 9, ../sass/screen.scss */
+/* line 8, ../sass/screen.scss */
+html {
+  backround-color: #eedfcc;
+}
+
+/* line 12, ../sass/screen.scss */
 #container {
   position: absolute;
   left: 50%;
 }
-/* line 12, ../sass/screen.scss */
+/* line 15, ../sass/screen.scss */
 #container .class {
   text-align: center;
   width: 420px;
   margin-left: -210px;
   margin-bottom: 150px;
 }
-/* line 17, ../sass/screen.scss */
+/* line 20, ../sass/screen.scss */
 #container .class img {
   width: 100%;
+}
+
+/* line 26, ../sass/screen.scss */
+#learnMore {
+  /**  style it rather than delete it  **/
 }
