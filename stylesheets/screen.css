@@ -24,13 +24,16 @@ html {
   width: 100%;
 }
 
+{
+position: fixed;
+bottom:0px;
+}
+
 
 
 
 /* line 26, ../sass/screen.scss */
-#learnMore {{
-position: fixed;
-bottom:0px;
-}
+#learnMore {
+
   /**  style it rather than delete it  **/
 }
