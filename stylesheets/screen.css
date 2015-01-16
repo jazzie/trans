@@ -24,10 +24,10 @@ html {
   width: 100%;
 }
 
-<li ng-repeat ...... >     </li>
+<li ng-repeat "http://www.istscare.org/" >     </li>
 <li>  "http://www.istscare.org/"    </li>
 
-<li ng-repeat ...... >     </li>
+<li ng-repeat "http://www.pridewatch.tw/beta/" >     </li>
 <li>  "http://www.pridewatch.tw/beta/"  </li>
 
 
